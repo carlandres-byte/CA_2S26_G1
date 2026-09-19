@@ -12,6 +12,7 @@
   * Cristian David Yumán Gómez - 202502231  
   * David Meza - 202500708
   * Christian Josué Granados Sabán - 202502343
+  * Carlos Andrés Hernández Vásquez - 202501470
 * **Fecha de Entrega:** 20/09/2026  
 
 ---
@@ -152,7 +153,24 @@ Al exponer, debia acercarme mas y moverme entre los estudiantes para mantener su
 ---
 
 ## 6. Evaluación del Aprendizaje del Público
-*(Describir la metodología utilizada para comprobar el conocimiento de la audiencia, los instrumentos aplicados como formularios o dinámicas, los resultados cuantitativos obtenida y el análisis del cumplimiento del objetivo del 80% de comprensión).*
+
+Para comprobar y medir de manera objetiva el conocimiento adquirido por los estudiantes, implementamos una evaluación interactiva a través de la plataforma digital **Kahoot** bajo el título **Ciberseguridad e Identidad Digital**. Esta actividad constó de 18 preguntas que diseñamos de forma colaborativa los integrantes del grupo, aportando tres interrogantes cada uno.
+
+Para garantizar una participación inclusiva y equitativa durante la dinámica, aplicamos las siguientes estrategias logísticas:
+
+* **Conectividad:** Proveyimos acceso a internet a aquellos alumnos que carecían de red en el momento.
+* **Dispositivos compartidos:** Los jóvenes que no disponían de un teléfono celular propio se organizaron en equipos de trabajo colaborativo junto con sus compañeros.
+
+## Reacción y comportamiento del público
+Durante el desarrollo de la charla, la actitud del estudiantado fue favorable y constante. Al inicio la temática captó su interés de manera natural y, aunque en momentos específicos algunos perdieron ligeramente la concentración, la gran mayoría se mantuvo atenta sin manifestar signos de aburrimiento. Al anunciar los premios para los primeros tres lugares, la dinámica se transformó por completo en un ambiente de sana competencia y alta motivación, donde todos se esforzaron al máximo por responder correctamente.
+
+## Resultados cuantitativos y cumplimiento de objetivos
+Según el informe que arrojó la plataforma, contamos con la participación de 13 personas a lo largo de los 12 minutos de actividad, obteniendo los siguientes datos:
+
+* **Promedio general:** Alcanzamos un **59%** de respuestas correctas a nivel global.
+* **Rendimiento del podio:** Los tres primeros puestos destacaron con rendimientos individuales de **83%** del primer lugar, **72%** del segundo lugar y **67%** del tercer lugar.
+
+Al analizar el cumplimiento de la meta de comprensión fijada idealmente en el **80%**, el promedio global del **59%** nos indica que no se alcanzó dicho margen. Esto evidencia que, si bien el público se mostró sumamente participativo y entusiasta con la competencia, los conceptos teóricos y técnicos más avanzados representaron un reto de asimilación, lo que nos deja una valiosa retroalimentación para reforzar estos temas con ejemplos más cotidianos en futuras intervenciones.
 
 ---
 
