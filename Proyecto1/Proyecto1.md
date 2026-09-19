@@ -118,11 +118,19 @@ La capacitación busca prevenir y concientizar a los participantes(alumnos) sobr
 * **Debilidades:** *(Puntos de mejora personal durante la exposición)*
 * **Amenazas:** *(Factores externos que dificultaron su presentación)*
 
-#### Integrante 2: [Nombre del Integrante]
-* **Fortalezas:** 
-* **Oportunidades:** 
-* **Debilidades:** 
-* **Amenazas:** 
+#### Integrante 2: Christian Josué Granados Sabán
+
+* **Fortalezas:**
+Tengo un poco de experiencia frente a grupos, me adapto facilmente para colaborar con distintas personas y estilos de trabajo dentro del equipo, participando constantemente en las tareas asignadas y aportando lo mejor de mi para cumplir los objetivos del proyecto. Soy respetuoso con las opiniones, tiempos y situaciones de mis companeros.
+
+* **Debilidades:**
+A veces se me dificulta llegar a la hora acordada debido a problemas de transporte y trafico, especialmente por la distancia desde mi hogar, y en ocasiones me cuesta equilibrar perfectamente mis horarios de clase, compromisos personales y las reuniones de preparacion del equipo. Ademas, en algunos momentos de la charla avance un poco rapido, lo que pudo haber dificultado la comprension de ciertos temas tecnicos para parte del publico.
+
+* **Oportunidades:**
+Estas actividades me permiten seguir practicando y fortaleciendo mi habilidad para hablar en publico y manejar grupos, al mismo tiempo, al preparar la capacitacion investigo y aprendo mas sobre el tema, actualizando y ampliando mis conocimientos tecnicos en ciberseguridad. Tambien me permiten conocer a docentes y estudiantes que podrian ser utiles para futuros proyectos colaborativos o actividades de extension universitaria.
+
+* **Amenazas:**
+Al exponer, debia acercarme mas y moverme entre los estudiantes para mantener su atencion y hacer la charla mas dinamica, ya que algunos conceptos de ciberseguridad pueden resultar complejos y, si no se explican muy bien, los estudiantes podrian desconectarse de la charla. 
 
 #### Integrante 3: [Kerner Baltazar Tún Xón]
 * **Fortalezas:** Capacidad de mantener la exposición en el tiempo indicado, a pesar de experimentar cierta timidez y baja fluidez verbal. Lo cual refleja capacidad de autocontrol y perseverancia frente a situaciones de nerviosismo. Manejo adecuado del lenguaje corporal, evitando mantenerme pasivo.
